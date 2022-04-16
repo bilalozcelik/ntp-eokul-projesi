@@ -1,0 +1,5 @@
+INSERT INTO `eokul`.`ogrencibilgi` (`ogrenciNo`, `ogrenciAdi`, `ogrenciSoyadi`, `ogrenciBolumu`, `ogrenciSinifi`, `ogrenciDogumTarihi`) VALUES ('100', 'HASAN', 'AHMET', 'METAL', '10', '2001-02-20');
+INSERT INTO `eokul`.`ogrencibilgi` (`ogrenciNo`, `ogrenciAdi`, `ogrenciSoyadi`, `ogrenciBolumu`, `ogrenciSinifi`, `ogrenciDogumTarihi`) VALUES ('110', 'ALİ', 'VELİ', 'MAKİNE', '11', '2005-08-20');
+INSERT INTO `eokul`.`ogrencibilgi` (`ogrenciNo`, `ogrenciAdi`, `ogrenciSoyadi`, `ogrenciBolumu`, `ogrenciSinifi`, `ogrenciDogumTarihi`) VALUES ('120', 'AYŞE', 'FATMA', 'BİLİŞİM', '12', '2012-09-20');
+INSERT INTO `eokul`.`ogrencibilgi` (`ogrenciNo`, `ogrenciAdi`, `ogrenciSoyadi`, `ogrenciBolumu`, `ogrenciSinifi`, `ogrenciDogumTarihi`) VALUES ('130', 'HÜSEYİN', 'EMİR', 'MOBİLYA', '9', '2016-07-20');
+INSERT INTO `eokul`.`ogrencibilgi` (`ogrenciNo`, `ogrenciAdi`, `ogrenciSoyadi`, `ogrenciBolumu`, `ogrenciSinifi`, `ogrenciDogumTarihi`) VALUES ('140', 'EBRU', 'KAYA', 'BİLİŞİM', '10', '2010-09-20');
