@@ -1,6 +1,0 @@
-INSERT INTO `eokul`.`ogrencinot` (`ogrenciNoFK`, `dersKoduFK`, `yazili1`, `yazili2`, `yazili3`, `uygulama1`, `uygulama2`, `sozlu1`, `sozlu2`) VALUES ('100', 'BTT', '56', '56', '87', '87', '87', '87', '87');
-INSERT INTO `eokul`.`ogrencinot` (`ogrenciNoFK`, `dersKoduFK`, `yazili1`, `yazili2`, `yazili3`, `uygulama1`, `uygulama2`, `sozlu1`, `sozlu2`) VALUES ('110', 'OP', '78', '98', '8', '88', '76', '45', '56');
-INSERT INTO `eokul`.`ogrencinot` (`ogrenciNoFK`, `dersKoduFK`, `yazili1`, `yazili2`, `yazili3`, `uygulama1`, `uygulama2`, `sozlu1`, `sozlu2`) VALUES ('110', 'EDE', '67', '78', '67', '89', '56', '56', '56');
-INSERT INTO `eokul`.`ogrencinot` (`ogrenciNoFK`, `dersKoduFK`, `yazili1`, `yazili2`, `yazili3`, `uygulama1`, `uygulama2`, `sozlu1`, `sozlu2`) VALUES ('130', 'FİZ', '76', '76', '56', '66', '66', '66', '76');
-INSERT INTO `eokul`.`ogrencinot` (`ogrenciNoFK`, `dersKoduFK`, `yazili1`, `yazili2`, `yazili3`, `uygulama1`, `uygulama2`, `sozlu1`, `sozlu2`) VALUES ('140', 'PT', '67', '76', '65', '76', '76', '54', '54');
-INSERT INTO `eokul`.`ogrencinot` (`ogrenciNoFK`, `dersKoduFK`, `yazili1`, `yazili2`, `yazili3`, `uygulama1`, `uygulama2`, `sozlu1`, `sozlu2`) VALUES ('110', 'BTT', '65', '65', '65', '65', '65', '65', '65');
